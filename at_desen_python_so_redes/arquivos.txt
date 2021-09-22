@@ -1,0 +1,24 @@
+Caminho dos arquivos: C:\Users\009671631\Downloads\2021.2 Desenvolvimento Python para Sistemas Operacionais e Redes\AT
+
+> ~$an_Breno_DR2_AT.docx | 0.16 KB
+> teste | 0.00 KB
+> oi.txt | 0.00 KB
+> c.txt | 0.04 KB
+> b.txt | 0.03 KB
+> at_q8_1.py | 2.71 KB
+> at_q8_0.py | 0.18 KB
+> at_q8.py | 0.66 KB
+> at_q7_servidor.py | 1.94 KB
+> at_q7_cliente.py | 1.73 KB
+> at_q6_servidor.py | 0.80 KB
+> at_q6_cliente.py | 0.55 KB
+> at_q5.py | 0.35 KB
+> at_q4.py | 0.36 KB
+> at_q3.py | 0.53 KB
+> at_q2.py | 0.41 KB
+> at_q1_2.py | 1.60 KB
+> at_q1.py | 0.88 KB
+> arquivos.txt | 0.00 KB
+> arquivo.txt | 0.00 KB
+> a.txt | 0.02 KB
+> Jean_Breno_DR2_AT.docx | 427.08 KB
